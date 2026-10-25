@@ -1,0 +1,10 @@
+{
+  "name": "sounio-tmlanguage",
+  "version": "0.1.0",
+  "description": "TextMate grammar for the Sounio programming language (scope source.sounio)",
+  "license": "Apache-2.0",
+  "repository": "github:Sounio-lang/sounio-tmlanguage",
+  "private": true,
+  "scripts": { "test": "node test/test.js" },
+  "devDependencies": { "vscode-oniguruma": "^2.0.1", "vscode-textmate": "^9.3.2" }
+}
